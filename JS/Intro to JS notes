@@ -1,0 +1,14 @@
+
+Competencies
+
+Javascript is a mainly object-based scripting language
+It is NOT Java. It has nothing to do with Java except for the name
+Focused on client-side (browser) operations
+Supported data-types: number, string, boolean, function, object, symbol
+Older language, so the syntax is more rigid (for example, everything ends with a semi-colon)
+Important feature: create new functions (methods in Ruby)
+The new web is built on javascript, from jQuery to React
+Currently, javascript’s incredible versatility in creating new functions and components makes it popular for new web frameworks
+
+Applications
+Understand JS basics and syntax
