@@ -1,0 +1,37 @@
+Let’s get started with Javascript:
+
+Open a js repl 
+https://repl.it/languages/javascript
+
+console.log() is the equivalent to Ruby’s “print/puts/p”
+
+Try telling your code to say “Hello World!”
+
+console.log("Hello World!");
+
+Comments are /* */
+
+Just like Ruby, you can console.log() anything: strings, numbers, booleans, math operations, etc
+console.log(24+12);
+console.log(true);
+console.log(‘Tacos’);
+
+
+Just like Ruby, you can call object functions (class methods). For example: console.log(‘Tacos’.length) 
+
+Javascript has several built-in functions you can use, for a list, check this: https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm
+
+Functions are called like this:
+console.log(‘Tacos’.toUpperCase());
+The structure of a function is the name (case sensitive!) and the argument (what’s inside the parentheses). Many times, there will be no arguments, we still need to include the parentheses.
+
+JS has arrays and hashes, just like Ruby, they are declared like this:
+var books = ['harry potter', 'twilight', 'the bible']
+
+var stands for “variable”, you are declaring that there is a variable called “books”
+JS has built-in array functions you can use just like Ruby as well
+console.log(books);
+books.push('1984');
+console.log(books);
+
+This should be enough to get you started on some simple JS exercises
