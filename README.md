@@ -5,3 +5,8 @@
 Go over Sinatra Blog
 
 Intro to Javascript
+
+
+## For Next Time
+
+JS Basics and JS Scope
